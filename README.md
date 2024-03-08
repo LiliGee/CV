@@ -1,2 +1,2 @@
 # CV
-Click to visit the website: 
+Click to visit the website: https://liligee.github.io/CV/ 
